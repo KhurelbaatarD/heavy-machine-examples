@@ -265,8 +265,7 @@
 				  "description": "",
                   "default": "",
                   "type": "string"
-                },
-
+                }
               },
               "type": "object"
             },
