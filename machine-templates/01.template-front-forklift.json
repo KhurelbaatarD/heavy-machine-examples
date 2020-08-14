@@ -797,7 +797,7 @@
                   "type": "string"
                 },
                 "loadCentre": {
-				  "description": "Lastschwerpunkt"
+				  "description": "Lastschwerpunkt",
                   "default": 0,
                   "type": "number"
                 },
