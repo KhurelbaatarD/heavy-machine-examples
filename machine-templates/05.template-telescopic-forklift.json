@@ -61,7 +61,7 @@
 				    "description": "Type",
                     "default": "",
                     "type": "string"
-                  }
+                  },
 				  "details": {
                     "properties": {
 					  "rental-preparation": {
@@ -217,7 +217,7 @@
 				  "description": "Baureihe",
                   "default": "",
                   "type": "string"
-                }
+                },
                 "chassisNumber": {
 				  "description": "Fahrgestellnummer",
                   "default": "",
@@ -771,7 +771,7 @@
                 },
                 "liftUnit": {
 				  "description": "Höheneinheit",
-				  "default": "mm"
+				  "default": "mm",
                   "type": "string"
                 },
                 "forkCarriageType": {
@@ -780,13 +780,13 @@
                   "type": "string"
                 },
                 "loadCentre": {
-				  "description": "Lastschwerpunkt"
+				  "description": "Lastschwerpunkt",
                   "default": 0,
                   "type": "number"
                 },
                 "loadCentreUnit": {
 				  "description": "Längeneinheit",
-				  "default": "mm"
+				  "default": "mm",
                   "type": "string"
                 }
               },
