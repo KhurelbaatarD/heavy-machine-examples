@@ -61,7 +61,7 @@
 				    "description": "Type",
                     "default": "",
                     "type": "string"
-                  }
+                  },
 				  "details": {
                     "properties": {
 					  "rental-preparation": {
@@ -217,7 +217,7 @@
 				  "description": "Baureihe",
                   "default": "",
                   "type": "string"
-                }
+                },
                 "chassisNumber": {
 				  "description": "Fahrgestellnummer",
                   "default": "",
@@ -578,17 +578,17 @@
                   "description": "Breiteneinheit",
 				  "default": "",
 				  "type": "string"
-                }
+                },
 				"platformLengthUnit": {
                   "description": "Längeneinheit",
 				  "default": "",
 				  "type": "string"
-                }
+                },
 				"platformWidth": {
                   "description": "Plattformbreite",
 				  "default": "",
 				  "type": "number"
-                }
+                },
 				"platformWidthUnit": {
                   "description": "Breiteneinheit",
 				  "default": "",
@@ -801,7 +801,7 @@
                 },
                 "freeLiftUnit": {
 				  "description": "Höheneinheit",
-				  "default": "mm"
+				  "default": "mm",
                   "type": "string"
                 },
                 "lift": {
@@ -811,7 +811,7 @@
                 },
                 "liftUnit": {
 				  "description": "Höheneinheit",
-				  "default": "mm"
+				  "default": "mm",
                   "type": "string"
                 },			
                 "forkCarriageType": {
@@ -820,22 +820,22 @@
                   "type": "string"
                 },
                 "loadCentre": {
-				  "description": "Lastschwerpunkt"
+				  "description": "Lastschwerpunkt",
                   "default": 0,
                   "type": "number"
                 },
                 "loadCentreUnit": {
 				  "description": "Längeneinheit",
-				  "default": "mm"
+				  "default": "mm",
                   "type": "string"
                 },
 				"InitialLift": {
-				  "description": "Initialhub"
+				  "description": "Initialhub",
                   "default": 0,
                   "type": "number"
                 },
 				"InitialLiftUnit": {
-				  "description": "Höheneinheit"
+				  "description": "Höheneinheit",
                   "default": "mm",
                   "type": "string"
                 },
