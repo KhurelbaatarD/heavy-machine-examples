@@ -61,7 +61,7 @@
 				    "description": "Type",
                     "default": "",
                     "type": "string"
-                  }
+                  },
 				  "details": {
                     "properties": {
 					  "rental-preparation": {
@@ -217,7 +217,7 @@
 				  "description": "Baureihe",
                   "default": "",
                   "type": "string"
-                }
+                },
                 "chassisNumber": {
 				  "description": "Fahrgestellnummer",
                   "default": "",
